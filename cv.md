@@ -23,7 +23,7 @@ I’m actively studying new technologies and striving to develop my skills in th
 ## Code Examples
 
 ```
-public void CreateTextForReading(string langLevel, string? authorName, out string title,
+    public void CreateTextForReading(string langLevel, string? authorName, out string title,
 			out IList<(string Text, string TranslatedText)> paragraphs) {
 		Conversation chat = CreateChatConversation(responseFormat: _jsonResponseFormat);
 		chat.AppendSystemMessage(string.Format(_aiSettings.CreateReadingTextSystemMessage,
