@@ -30,6 +30,9 @@ Department: Information Technologies
 
 Field of study: Computer Science
 
+## English level
+**B2** \- Upper-Intermediate
+
 ## Projects
 
 ### Virtual English Tutor Using Artificial Intelligence
@@ -51,9 +54,6 @@ Technologies, used within the project:
 * Html, CSS, Bootsrtap  
 * Angular  
 * ChatGPT API
-
-## English level
-**B2** \- Upper-Intermediate
 
 ### Service for obtaining the Bitcoin exchange rate
 
