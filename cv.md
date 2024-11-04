@@ -52,6 +52,9 @@ Technologies, used within the project:
 * Angular  
 * ChatGPT API
 
+## English level
+**B2** \- Upper-Intermediate
+
 ### Service for obtaining the Bitcoin exchange rate
 
 [https://github.com/justimova/genesisTask](https://github.com/justimova/genesisTask) 
