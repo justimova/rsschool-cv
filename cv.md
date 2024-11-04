@@ -2,7 +2,8 @@
 ## Junior software developer (C\#)
 \+48519434592  
 [juli.ustimova@gmail.com](mailto:juli.ustimova@gmail.com)   
-GitHub: [https://github.com/justimova](https://github.com/justimova) 
+GitHub: [https://github.com/justimova](https://github.com/justimova)
+Discord: jayzjay.
 
 ## Summary
 
