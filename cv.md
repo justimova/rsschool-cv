@@ -1,9 +1,9 @@
 # Julia Ustimova
 ## Junior software developer (C\#)
 \+48519434592  
+Discord: jayzjay. 
 [juli.ustimova@gmail.com](mailto:juli.ustimova@gmail.com)   
 GitHub: [https://github.com/justimova](https://github.com/justimova)
-Discord: jayzjay.
 
 ## Summary
 
