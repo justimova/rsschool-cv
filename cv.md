@@ -39,20 +39,7 @@ I’m actively studying new technologies and striving to develop my skills in th
     }
 ```
 
-## Education
-
-2020 — 2024
-
-**Bachelor's degree \- National Technical University of Ukraine "Kyiv Polytechnic Institute"**
-
-Department: Information Technologies
-
-Field of study: Computer Science
-
-## English level
-**B2** \- Upper-Intermediate
-
-## Projects
+## Work Experience
 
 ### Virtual English Tutor Using Artificial Intelligence
 
@@ -96,3 +83,17 @@ The organizer provides the ability to manage reminders and the task list (ToDo).
 Technologies, used within the project: 
 
 * С++
+
+## Education
+
+2020 — 2024
+
+**Bachelor's degree \- National Technical University of Ukraine "Kyiv Polytechnic Institute"**
+
+Department: Information Technologies
+
+Field of study: Computer Science
+
+## English Language
+**B2** \- Upper-Intermediate
+
