@@ -20,6 +20,24 @@ I’m actively studying new technologies and striving to develop my skills in th
 * MS SQL Server  
 * HTML, CSS
 
+## Code Examples
+
+```
+public void CreateTextForReading(string langLevel, string? authorName, out string title,
+			out IList<(string Text, string TranslatedText)> paragraphs) {
+		Conversation chat = CreateChatConversation(responseFormat: _jsonResponseFormat);
+		chat.AppendSystemMessage(string.Format(_aiSettings.CreateReadingTextSystemMessage,
+			_aiSettings.NumberOfWordsForReadingText, langLevel));
+		chat.AppendUserInput(string.Format(_aiSettings.CreateReadingTextUserMessage, authorName));
+		string response = chat.GetResponseFromChatbotAsync().GetAwaiter().GetResult();
+		TextForReading? textForReading = JsonSerializer.Deserialize<TextForReading>(response)
+			?? throw new Exception("Something wrong");
+		title = textForReading.Title;
+		paragraphs = textForReading.Text.Zip(textForReading.TranslatedText,
+			(text, translatedText) => (Text: text, TranslatedText: translatedText)).ToList();
+    }
+```
+
 ## Education
 
 2020 — 2024
